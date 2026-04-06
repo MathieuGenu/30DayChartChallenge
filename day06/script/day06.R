@@ -96,7 +96,7 @@ p <- data |>
   labs(
     title = "Evolution of freedom press index in France",
     subtitle = "during the presidencies of <span style='color:#ff8080'>François Hollande</span> and <span style='color:#03215A'>Emmanuel Macron</span>",
-    caption = "By MathieuGenu\nData: Reporter Sans Frontières (Reporters Without Borders)"
+    caption = "By MathieuGenu\nData: Reporters Sans Frontières (Reporters Without Borders)"
   ) +
   theme_minimal() +
   theme(
